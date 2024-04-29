@@ -57,5 +57,4 @@ Hello! I am Yunus Emre Özşahin. I have basic knowledge in iOS Application Deve
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yunusdvp&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![GIF'in Açıklaması](https://ibb.co/gdbzq1S)
